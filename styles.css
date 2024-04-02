@@ -1,12 +1,3 @@
-/* Селекторы */
-
-/* 1) селектор тега */
-
-/* body {
-  background-color: yellow;
-} */
-
-/* 2) селектор класса */
-.header-navigation-list {
-  background-color: tomato;
+body {
+  font-family: 'Poppins', sans-serif;
 }
